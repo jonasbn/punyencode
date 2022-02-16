@@ -1,4 +1,4 @@
-# punydecode
+# punyencode
 
 A simple CLI tool to encode a string to a punycode encoded string
 
