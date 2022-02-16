@@ -75,7 +75,7 @@ Please see [golang.org/x/net/idna][goidna] for details.
 `punyencode` only takes a single argument.
 
 ```bash
-punyencode xn--blbrgrd-fxak7p
+punyencode kødpålæg
 ```
 
 ## Author
