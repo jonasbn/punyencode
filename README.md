@@ -48,7 +48,7 @@ If you want to decode from punycode, see [`punydecode`][punydecode].
 
 - `0` success, provided string has been decoded and printed
 
-- `1` failure not argument provided or data from STDIN
+- `1` failure no argument provided or data from STDIN
 
 - `2` failure reading from STDIN
 
