@@ -1,5 +1,7 @@
 # punyencode
 
+[![Coverage Status](https://coveralls.io/repos/github/jonasbn/punyencode/badge.svg)](https://coveralls.io/github/jonasbn/punyencode)
+
 A simple CLI tool to encode a string to a punycode encoded string
 
 ## Usage
